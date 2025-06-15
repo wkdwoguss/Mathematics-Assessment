@@ -3,7 +3,7 @@ KSHS common mathematics 1 mathematics assessment by wkdwoguss
 
 
 To play poker with AI, download both of the file and move them in the same folder.
-And then, first you must run the file 'trainAI.py' then you will have the file 'final_poker_model.pth'
+And then, first you must run the file 'trainAI.py' then you will have the file 'final_poker_model.pth'.
 then run the file 'Poker.py', you will be able to play poker with AI!
 
 
